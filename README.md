@@ -16,7 +16,7 @@ A Python Console Application for Managing Shopping Mall Operation.
 
 '''bash
 python firstprogram.py
-
+Raptor Flowchart Shopping Mall.rap
 ## Features
 
 . Automatic 10% discount on bills Above Rs\2000
